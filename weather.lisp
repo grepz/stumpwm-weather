@@ -61,7 +61,7 @@
 (defvar *openweather-api-current-data* "weather")
 (defvar *openweather-api-forecast-data* "forecast")
 
-(defvar *column-format* '("~20A" "~9A" "~6A" "~8A" "~8A" "~4A"
+(defvar *column-format* '("~20A" "~9A" "~8A" "~8A" "~8A" "~4A"
                                 "~10A" "~7A" "~8A" "~8A" "~12A" "~18A"))
 (defvar *column-names* '("Date" "Wind,m/s" "T,C" "Tmin,C" "Tmax,C" "H%"
                          "P,mm Hg" "Cld,%" "Rain,3h" "Snow,3h" "Wthr"
