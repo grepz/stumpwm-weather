@@ -4,6 +4,7 @@ stumpwm-weather
 Stumpwm script to get openweather forecasts
 
 * USAGE:
+
 1. Put:
 
      (load "/path/to/weather.lisp")
